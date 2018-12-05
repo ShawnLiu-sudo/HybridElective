@@ -1,0 +1,12 @@
+.app-header{
+    height: 6rem;
+    background-color: cornflowerblue;
+    color: white;
+    border-bottom: 5px solid black;
+    } 
+    
+    .app-header h1{
+        font-size: 3rem;
+        line-height: 6rem;
+        text-align: center;
+    }

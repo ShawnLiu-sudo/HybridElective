@@ -1,0 +1,16 @@
+.split {
+    /* height: 100%; */
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 7.5rem;
+    /* overflow-x: hidden; */
+    /* padding-top: 20px; */
+}
+
+.list-container {
+    box-sizing: border-box;
+    left: 0;
+    list-style: none;
+    padding: 0 0 0 10px;
+}

@@ -1,0 +1,39 @@
+
+.addForm {
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 7.5rem;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    right: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 12rem;
+}
+
+.input-field{
+    border: 1px solid #aaa;
+    margin-bottom: 5px;
+    font-size: 1.5rem;
+    
+}
+
+.button-save{
+
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.button-save:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
